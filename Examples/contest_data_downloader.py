@@ -36,7 +36,7 @@ STUDIES = ['Pat1Test']
 
 ## include a path to save downloaded data segments to file
 # OUTPUT_PATH = 'D:/KAGGLE/data/ecosystem/test_download/' # replace with preferred path
-OUTPUT_PATH = './test_download/' # replace with preferred path
+OUTPUT_PATH = 'D:\' # replace with preferred path
 
 
 def main():  # pylint:disable=too-many-locals
